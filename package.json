@@ -24,5 +24,8 @@
     "eslint-config-next": "15.5.4",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "overrides": {
+    "lightningcss": "npm:lightningcss-wasm@1.28.2"
   }
 }
